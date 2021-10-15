@@ -6,7 +6,7 @@ Easy way to keep track of your expanses.
 
 ## Getting Started
 
-  <p align="center">
+  <p align="left">
   
   <img src="SS\ss1.png" alt="ss 1" width="300px" height="550px">
   <img src="SS\ss2.png" alt="ss 2"  width="300px" height="550px">
